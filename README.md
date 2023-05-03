@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mamadjanov Ibrokhim</h1>
+<h1 align="center">Hi 👋, I'm Jasur Habibullaev</h1>
 <h3 align="center">A passionate frontend developer from Uzbekistan</h3>
 <img align ="right" alt ="coding" width="500" src="https://cdn.arzdigital.com/uploads/2018/05/coding.gif">
 
