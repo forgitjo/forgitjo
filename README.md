@@ -38,9 +38,10 @@
 
 ### Languages
 <div style="display: flex;">
+	<img src="https://user-images.githubusercontent.com/108211068/236660222-8ffb02b2-7df3-4554-845c-ff12770516ff.png" >
+	<img src="https://user-images.githubusercontent.com/108211068/236660255-4a1273ec-2739-4a79-ac81-114cb08bf6e5.png" width="30px" >
   <img src="https://user-images.githubusercontent.com/81867375/201831350-6c7c4138-9afd-44fe-be16-2a718c8b2106.png" width="30px"/>   
   <img src="https://cdn3.iconfinder.com/data/icons/flags-of-countries-3/128/Korea-512.png" width="30px"/>  
   <img src="https://cdn-icons-png.flaticon.com/512/4628/4628645.png" width="30px"/>
-<img src="![image](https://user-images.githubusercontent.com/108211068/236660222-8ffb02b2-7df3-4554-845c-ff12770516ff.png)" >
-	<img src="![image](https://user-images.githubusercontent.com/108211068/236660255-4a1273ec-2739-4a79-ac81-114cb08bf6e5.png)" width="30px" >
+
 </div>
