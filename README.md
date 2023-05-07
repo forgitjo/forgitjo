@@ -35,3 +35,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=forgitjo&show_icons=true&locale=en" alt="forgitjo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=forgitjo&" alt="forgitjo" /></p>
+
+### Languages
+<div style="display: flex;">
+  <img src="https://user-images.githubusercontent.com/81867375/201831350-6c7c4138-9afd-44fe-be16-2a718c8b2106.png" width="30px"/>   
+  <img src="https://cdn3.iconfinder.com/data/icons/flags-of-countries-3/128/Korea-512.png" width="30px"/>  
+  <img src="https://cdn-icons-png.flaticon.com/512/4628/4628645.png" width="30px"/>
+</div>
